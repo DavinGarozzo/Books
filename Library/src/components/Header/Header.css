@@ -1,7 +1,7 @@
 .header-content {
   min-height: 75vh;
-  background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)),
-    url("../../images/library-img.png") center/cover no-repeat;
+  background: linear-gradient(rgba(219, 125, 45, 0.3), rgba(219, 125, 45, 0.5)),
+    url("../../images/book.jpg") center/cover no-repeat;
   flex-direction: column;
 }
 .header-content {
